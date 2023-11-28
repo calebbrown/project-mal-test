@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/calebbrown/project-mal-test/issues"
   },
-  "homepage": "https://github.com/calebbrown/project-mal-test#readme"
+  "homepage": "https://github.com/calebbrown/project-mal-test#readme",
+  "dependencies": {
+    "gog-module-event-bus": "1.0.1"
+  }
 }
